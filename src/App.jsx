@@ -6,8 +6,8 @@ import {
   Routes,
   Route
 } from "react-router-dom";
-import Join from './component/Join/Join';
-import Chat from './component/chat/chat';
+import Join from './component/Join/Join.jsx';
+import Chat from './component/chat/chat.jsx';
 
 // const ENDPOINT = `http://localhost:4500/`
 // const socket = socketIO(ENDPOINT, { transports: ["websocket"] })
