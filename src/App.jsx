@@ -7,7 +7,7 @@ import {
   Route
 } from "react-router-dom";
 import Join from './component/Join/Join.jsx';
-import Chat from './component/chat/chat.jsx';
+import Chat from './component/chat/Chat.jsx';
 
 // const ENDPOINT = `http://localhost:4500/`
 // const socket = socketIO(ENDPOINT, { transports: ["websocket"] })
