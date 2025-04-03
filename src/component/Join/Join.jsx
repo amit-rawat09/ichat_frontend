@@ -1,5 +1,5 @@
 import React, { useState } from 'react'
-import './Join.css'
+import './join.css'
 import { IoChatbubbleEllipsesOutline } from "react-icons/io5";
 import { Link } from "react-router-dom";
 
